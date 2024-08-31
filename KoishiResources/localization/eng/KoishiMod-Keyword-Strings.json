@@ -1,0 +1,66 @@
+[
+  {
+    "NAMES": [
+      "id"
+    ],
+    "DESCRIPTION": "#yId cards are automatically played when drawn regardless of Energy."
+  },
+  {
+    "NAMES": [
+      "terror"
+    ],
+    "DESCRIPTION": "Whenever an enemy dies, heal HP equal to its #yTerror."
+  },
+  {
+    "NAMES": [
+      "ephemeral"
+    ],
+    "DESCRIPTION": "Whenever you gain #b15 #yEphemeral, gain #b1 #yIntangible."
+  },
+  {
+    "NAMES": [
+      "flow"
+    ],
+    "DESCRIPTION": "#yFlow cards draw #b1 card when drawn."
+  },
+  {
+    "PROPER_NAME": "Mind Control",
+    "NAMES": [
+      "Mind Control",
+      "mind_control",
+      "Mind_Control",
+      "mind controlled"
+    ],
+    "DESCRIPTION": "Whenever a mind controlled enemy deals damage or applies a debuff, a random enemy receives it instead. Whenever it applies a buff, gains Block, or heals HP, you receive it instead."
+  },
+  {
+    "PROPER_NAME": "Frozen Eye",
+    "NAMES": [
+      "Frozen Eye",
+      "frozen_eye",
+      "Frozen_Eye"
+    ],
+    "DESCRIPTION": "A relic that allows you to view your draw pile in order."
+  },
+  {
+    "PROPER_NAME": "So Answer the Phone",
+    "NAMES": [
+      "So Answer the Phone",
+      "so_answer_the_phone",
+      "So_Answer_The_Phone"
+    ],
+    "DESCRIPTION": "A 1 cost Skill that doubles(triples) target enemy's #yTerror then exhausts."
+  },
+  {
+    "NAMES": [
+      "stun"
+    ],
+    "DESCRIPTION": "#yStunned enemies do nothing on their turn."
+  },
+  {
+    "NAMES": [
+      "constricted"
+    ],
+    "DESCRIPTION": "#yConstricted enemies take damage at the end of their turn."
+  }
+]

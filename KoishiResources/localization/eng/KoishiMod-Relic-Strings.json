@@ -1,0 +1,58 @@
+{
+  "Koishi:ImaginaryFriend": {
+    "NAME": "Imaginary Friend",
+    "FLAVOR": "They'll forget about me. They always do.",
+    "DESCRIPTIONS": [
+      "Whenever you play a card, gain #b", " #ykoishi:Ephemeral."
+    ]
+  },
+  "Koishi:BloodstainedWhiteRose": {
+    "NAME": "Bloodstained White Rose",
+    "FLAVOR": "The treaty was broken, and the White Rose of Chireiden was stained forever.",
+    "DESCRIPTIONS": [
+      "At the start of combat, apply #b", " #ykoishi:Terror to a random enemy."
+    ]
+  },
+  "Koishi:LettersToReimu": {
+    "NAME": "Letters to Reimu",
+    "FLAVOR": "Everything comes to an end, even the dream they had believed in. Even this story must have a sad, tragic end.",
+    "DESCRIPTIONS": [
+      "Whenever a card is exhausted, gain #b", " #yTemporary #yHP."
+    ]
+  },
+  "Koishi:ImperfectMetamorphosis": {
+    "NAME": "Imperfect Metamorphosis",
+    "FLAVOR": "It was the first day of spring, and nobody cared.",
+    "DESCRIPTIONS": [
+      "Upon pickup, choose and Transform #b", " cards into random #ykoishi:Id cards."
+    ]
+  },
+  "Koishi:ColorfulDays": {
+    "NAME": "Colorful Days",
+    "FLAVOR": "Everything I saw, everything I heard, everything I felt . . . all the scenery around me started to take color.",
+    "DESCRIPTIONS": [
+      "Gain [E] at the start of each turn. #ykoishi:Ephemeral now triggers at #b", " stacks instead of #b", "."
+    ]
+  },
+  "Koishi:AHoleWhereASisterShouldBe": {
+    "NAME": "A Hole Where a Sister Should Be",
+    "FLAVOR": "It hurt. It hurt to remember the sound of her laugh, the touch of her mind against her own.",
+    "DESCRIPTIONS": [
+      "The first time you draw an #ykoishi:Id card each combat, gain [E] and draw #b", " card."
+    ]
+  },
+  "Koishi:TeethAndClaws": {
+    "NAME": "Teeth and Claws",
+    "FLAVOR": "Not everyone plays by the rules. Those who don’t tend to be dealt with. Swiftly.",
+    "DESCRIPTIONS": [
+      "The first time you apply a debuff each turn, gain #b", " Block."
+    ]
+  },
+  "Koishi:EchoesOfADeadGirl": {
+    "NAME": "Echoes of a Dead Girl",
+    "FLAVOR": "She wasn't sure if there was anything left of her sister in that shell, that hollow existence that could only mindlessly follow its primal urges.",
+    "DESCRIPTIONS": [
+      "Whenever you gain #yIntangible, gain [E] ."
+    ]
+  }
+}

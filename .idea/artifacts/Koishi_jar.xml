@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Koishi.jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Koishi_jar</output-path>
+    <root id="archive" name="Koishi.jar">
+      <element id="dir-copy" path="$PROJECT_DIR$" />
+    </root>
+  </artifact>
+</component>

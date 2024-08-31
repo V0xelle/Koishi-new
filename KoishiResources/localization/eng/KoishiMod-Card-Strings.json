@@ -1,0 +1,324 @@
+{
+  "Koishi:MentalBreakdown": {
+    "NAME": "Mental Breakdown",
+    "DESCRIPTION": "Deal !D! damage. NL If the enemy does NOT intend to attack, apply !M! koishi:Stun. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Deal !D! damage. NL If the enemy does NOT intend to attack, apply !M! koishi:Stun. NL Exhaust."
+  },
+  "Koishi:SilentAndRestless": {
+    "NAME": "Silent and Restless",
+    "DESCRIPTION": "Retain. NL Deal !D! damage. NL Gain !M! koishi:Ephemeral. NL If Fatal, permanently increase this card's koishi:Ephemeral gain by !Koishi:SecondMagic!. NL Exhaust."
+  },
+  "Koishi:SuperEgo": {
+    "NAME": "Super-Ego",
+    "DESCRIPTION": "Deal !D! damage. NL Exhaust ALL your Id cards. NL Gain [E] and draw !M! card for each card exhausted this way. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Deal !D! damage. NL Exhaust ALL your Id cards. NL Gain [E] and draw !M! card for each card exhausted this way. NL Exhaust."
+  },
+  "Koishi:RuptureMind": {
+    "NAME": "Rupture Mind",
+    "DESCRIPTION": "Deal !D! damage. NL If you applied a debuff this turn, apply !M! additional stacks of every debuff on the enemy."
+  },
+  "Koishi:LastRemote": {
+    "NAME": "Last Remote",
+    "DESCRIPTION": "Deal !D! damage. NL Gain [E]. NL This card costs 0 if you drew an koishi:Id card this turn."
+  },
+  "Koishi:HeartAttack": {
+    "NAME": "Heart Attack",
+    "DESCRIPTION": "koishi:Id. NL Deal !D! damage to a random enemy."
+  },
+  "Koishi:StrangeCloudFist": {
+    "NAME": "Strange Cloud Fist",
+    "DESCRIPTION": "Retain. NL Deal !D! damage. NL Deals double damage while you are Intangible."
+  },
+  "Koishi:TraumaticStroke": {
+    "NAME": "Traumatic Stroke",
+    "DESCRIPTION": "Deal !D! damage. NL If you applied a debuff this turn, gain !B! Block."
+  },
+  "Koishi:MindNumbingTerror": {
+    "NAME": "Mind Numbing Terror",
+    "DESCRIPTION": "Deal !D! damage. NL ALL enemies lose HP equal to their koishi:Terror."
+  },
+  "Koishi:UnseenTerror": {
+    "NAME": "Unseen Terror",
+    "DESCRIPTION": "Deal !D! damage. NL Gain !Koishi:SecondMagic! koishi:Ephemeral. NL Apply !M! koishi:Terror."
+  },
+  "Koishi:Catatonia": {
+    "NAME": "Catatonia",
+    "DESCRIPTION": "Deal !D! damage. NL Deals !M! additional damage for each stack of koishi:Terror on the enemy."
+  },
+  "Koishi:YoukaiPolygraph": {
+    "NAME": "Youkai Polygraph",
+    "DESCRIPTION": "Deal !D! damage. NL If you applied a debuff this turn, gain [E] [E]."
+  },
+  "Koishi:TremblingHands": {
+    "NAME": "Trembling Hands",
+    "DESCRIPTION": "Deal !D! damage. NL Enemy loses Strength this turn equal to its koishi:Terror."
+  },
+  "Koishi:ParalyzingFear": {
+    "NAME": "Paralyzing Fear",
+    "DESCRIPTION": "Deal !D! damage. NL If the enemy has koishi:Terror, apply !M! Weak."
+  },
+  "Koishi:BloodcurdlingScream": {
+    "NAME": "Bloodcurdling Scream",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Apply !M! Vulnerable to ALL enemies with koishi:Terror."
+  },
+  "Koishi:SpiritedAway": {
+    "NAME": "Spirited Away",
+    "DESCRIPTION": "Retain. NL Deal !D! damage. NL Draw !M! card. NL This card costs 0 while you are Intangible."
+  },
+  "Koishi:GrowingPain": {
+    "NAME": "Growing Pain",
+    "DESCRIPTION": "Deal !D! damage !M! time(s). NL Deals damage an additional time for every Intangible you gained this combat."
+  },
+  "Koishi:Prune": {
+    "NAME": "Prune",
+    "DESCRIPTION": "Deal !D! damage. NL Scry !M!. NL This card costs 0 if you drew an koishi:Id card this turn."
+  },
+  "Koishi:Jaunt": {
+    "NAME": "Jaunt",
+    "DESCRIPTION": "Deal !D! damage. NL Draw !M! card. NL If the enemy intends to attack, draw !M! card."
+  },
+  "Koishi:RacingHeart": {
+    "NAME": "Racing Heart",
+    "DESCRIPTION": "Deal !D! damage. NL If the enemy has koishi:Terror, apply !M! koishi:Terror."
+  },
+  "Koishi:SubterraneanRose": {
+    "NAME": "Subterranean Rose",
+    "DESCRIPTION": "koishi:Id. NL Gain !B! Block. NL Gain !M! Thorns this turn."
+  },
+  "Koishi:StingingMind": {
+    "NAME": "Stinging Mind",
+    "DESCRIPTION": "Deal !D! damage and apply !M! koishi:Terror twice."
+  },
+  "Koishi:DreadfulBlow": {
+    "NAME": "Dreadful Blow",
+    "DESCRIPTION": "Deal !D! damage. NL Apply !M! koishi:Terror. NL Force the enemy to NOT intend to attack this turn if possible."
+  },
+  "Koishi:ReflexRadar": {
+    "NAME": "Reflex Radar",
+    "DESCRIPTION": "Lose [E]. NL Draw !M! cards.",
+    "UPGRADE_DESCRIPTION":"Retain. NL Lose [E]. NL Draw !M! cards."
+  },
+  "Koishi:PhantomStrike": {
+    "NAME": "Phantom Strike",
+    "DESCRIPTION": "Deal !D! damage. NL Gain !M! koishi:Ephemeral."
+  },
+  "Koishi:SubconsciousSweep": {
+    "NAME": "Subconscious Sweep",
+    "DESCRIPTION": "koishi:Id. NL Deal !D! damage to ALL enemies."
+  },
+  "Koishi:HauntingSlash": {
+    "NAME": "Haunting Slash",
+    "DESCRIPTION": "Deal !D! damage. NL Apply !M! koishi:Terror."
+  },
+  "Koishi:ConditionedTeleport": {
+    "NAME": "Conditioned Teleport",
+    "DESCRIPTION": "Innate. NL Retain. NL Escape from a non-boss combat and receive no rewards. NL koishi:Flow. NL Fleeting.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Retain. NL Escape from a non-boss combat and receive no rewards. NL koishi:Flow."
+  },
+  "Koishi:RollingInRichesHeart": {
+    "NAME": "Rolling-in-Riches Heart",
+    "DESCRIPTION": "Lose !Koishi:SecondMagic! Gold. NL Increase the damage of ALL Attacks in your hand by !M! this combat."
+  },
+  "Koishi:FadingMemory": {
+    "NAME": "Fading Memory",
+    "DESCRIPTION": "koishi:Id. NL If your hand is not empty, draw !M! card. NL Exhaust a card. NL Next turn, draw !Koishi:SecondMagic! cards."
+  },
+  "Koishi:RoseHell": {
+    "NAME": "Rose Hell",
+    "DESCRIPTION": "Gain !M! Thorns X times. NL Apply !M! koishi:Constricted to ALL enemies X times. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Gain !M! Thorns X + 1 times. NL Apply !M! koishi:Constricted to ALL enemies X + 1 times. NL Exhaust."
+  },
+  "Koishi:MindStellarRelief": {
+    "NAME": "Mind Stellar Relief",
+    "DESCRIPTION": "Retain. NL Enemy loses !M! HP. NL It loses !Koishi:SecondMagic! additional HP for every time you applied a debuff this combat. NL Exhaust."
+  },
+  "Koishi:DNAsFlaw": {
+    "NAME": "DNA's Flaw",
+    "DESCRIPTION": "If the enemy intends to attack, gain !M! koishi:Ephemeral."
+  },
+  "Koishi:ImGoingToCallYouNow": {
+    "NAME": "I'm Going to Call You Now",
+    "DESCRIPTION": "Apply !M! koishi:Terror. NL Add koishi:So_Answer_The_Phone to your hand. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Apply !M! koishi:Terror. NL Add koishi:So_Answer_The_Phone+ to your hand. NL Exhaust."
+  },
+  "Koishi:SoAnswerThePhone": {
+    "NAME": "So Answer the Phone",
+    "DESCRIPTION": "Double the enemy's koishi:Terror. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Triple the enemy's koishi:Terror. NL Exhaust."
+  },
+  "Koishi:PerfectMindControl": {
+    "NAME": "Perfect Mind Control",
+    "DESCRIPTION": "Apply !M! koishi:Mind_Control to ALL enemies. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Apply !M! koishi:Mind_Control to ALL enemies. NL Exhaust."
+  },
+  "Koishi:Possession": {
+    "NAME": "Possession",
+    "DESCRIPTION": "Retain. NL Apply !M! koishi:Mind_Control. NL This card can only be played while you are Intangible. NL Exhaust."
+  },
+  "Koishi:ApparitionsStalkTheNight": {
+    "NAME": "Apparitions Stalk the Night",
+    "DESCRIPTION": "Lose !Koishi:SecondMagic! HP. NL If you do not have Intangible, gain !M! Intangible. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Lose !Koishi:SecondMagic! HP. NL If you do not have Intangible, gain !M! Intangible. NL Exhaust."
+  },
+  "Koishi:Vanish": {
+    "NAME": "Vanish",
+    "DESCRIPTION": "Lose 1 HP !Koishi:SecondMagic! times. NL Gain !M! koishi:Ephemeral. NL Exhaust."
+  },
+  "Koishi:DanmakuParanoia": {
+    "NAME": "Danmaku Paranoia",
+    "DESCRIPTION": "Gain !B! Block. NL Gains !M! additional Block for each koishi:Terror on an enemy."
+  },
+  "Koishi:EmbersOfLove": {
+    "NAME": "Embers of Love",
+    "DESCRIPTION": "Retain. NL Force ALL enemies to NOT intend to attack this turn if possible. NL koishi:Flow. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Force ALL enemies to NOT intend to attack this turn if possible. NL koishi:Flow."
+  },
+  "Koishi:PhilosophyOfTheDespised": {
+    "NAME": "Philosophy of the Despised",
+    "DESCRIPTION": "Retain. NL Force ALL enemies to intend to attack this turn if possible. NL koishi:Flow. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Force ALL enemies to intend to attack this turn if possible. NL koishi:Flow."
+  },
+  "Koishi:MassHysteria": {
+    "NAME": "Mass Hysteria",
+    "DESCRIPTION": "koishi:Id. NL ALL enemies lose HP equal to their combined intents."
+  },
+  "Koishi:FourthEye": {
+    "NAME": "Fourth Eye",
+    "DESCRIPTION": "Gain koishi:Frozen_Eye this combat. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Gain koishi:Frozen_Eye this combat. NL Exhaust."
+  },
+  "Koishi:ReleaseOfTheId": {
+    "NAME": "Release of the Id",
+    "DESCRIPTION": "Shuffle !M! random koishi:Id cards into your draw pile. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Shuffle !M! random upgraded koishi:Id cards into your draw pile. NL Exhaust."
+  },
+  "Koishi:PredatoryInstincts": {
+    "NAME": "Predatory Instincts",
+    "DESCRIPTION": "Gain !B! Block. NL Apply !M! koishi:Terror to ALL enemies. NL Exhaust."
+  },
+  "Koishi:IdleWhim": {
+    "NAME": "Idle Whim",
+    "DESCRIPTION": "koishi:Id. NL Next turn, draw !M! cards."
+  },
+  "Koishi:Bloodlust": {
+    "NAME": "Bloodlust",
+    "DESCRIPTION": "Retain. NL Gain [E] [E]. NL Lose [E] [E] next turn. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Gain [E] [E] [E]. NL Lose [E] [E] [E] next turn. NL Exhaust."
+  },
+  "Koishi:GeneticsOfTheUnconscious": {
+    "NAME": "Genetics of the Unconscious",
+    "DESCRIPTION": "Put a card from your discard pile on top of your draw pile. NL Draw !M! card. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "NL Put !Koishi:SecondMagic! cards from your discard pile on top of your draw pile. NL Draw !M! cards. NL Exhaust."
+  },
+  "Koishi:RorschachInDanmaku": {
+    "NAME": "Rorschach in Danmaku",
+    "DESCRIPTION": "koishi:Id. NL Gain !B! Block. NL Next turn, draw !M! card."
+  },
+  "Koishi:CatchAndRose": {
+    "NAME": "Catch and Rose",
+    "DESCRIPTION": "Apply !M! koishi:Constricted."
+  },
+  "Koishi:SprinkleStarAndHeart": {
+    "NAME": "Sprinkle Star and Heart",
+    "DESCRIPTION": "koishi:Id. NL Apply !M! Weak and Vulnerable to ALL enemies."
+  },
+  "Koishi:EmbryosDream": {
+    "NAME": "Embryo's Dream",
+    "DESCRIPTION": "If the enemy intends to attack, gain !B! Block. NL If the enemy does not intend to attack, deal !D! damage."
+  },
+  "Koishi:JumpScare": {
+    "NAME": "Jump Scare",
+    "DESCRIPTION": "Innate. NL Apply !M! koishi:Terror. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Apply !M! koishi:Terror twice. NL Exhaust."
+  },
+  "Koishi:HeartfeltFancy": {
+    "NAME": "Heartfelt Fancy",
+    "DESCRIPTION": "Put a card from your discard pile on top of your draw pile. NL Lose [E]. NL If you do, gain !B! Block."
+  },
+  "Koishi:UnansweredLove": {
+    "NAME": "Unanswered Love",
+    "DESCRIPTION": "Lose !Koishi:SecondMagic! HP. NL Gain !M! koishi:Ephemeral.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Lose !Koishi:SecondMagic! HP. NL Gain !M! koishi:Ephemeral."
+  },
+  "Koishi:FleetingPhantom": {
+    "NAME": "Fleeting Phantom",
+    "DESCRIPTION": "Draw !M! cards. NL Gain !Koishi:SecondMagic! koishi:Ephemeral."
+  },
+  "Koishi:PhantomBarrier": {
+    "NAME": "Phantom Barrier",
+    "DESCRIPTION": "Gain !B! Block. NL Gain !M! koishi:Ephemeral."
+  },
+  "Koishi:Whimsy": {
+    "NAME": "Whimsy",
+    "DESCRIPTION": "Retain. NL Scry !Koishi:SecondMagic!. NL Draw !M! card. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Scry !Koishi:SecondMagic!. NL Draw !M! cards. NL Exhaust."
+  },
+  "Koishi:UnconsciousUprising": {
+    "NAME": "Unconscious Uprising",
+    "DESCRIPTION": "koishi:Id. NL Gain !B! Block."
+  },
+  "Koishi:Provoke": {
+    "NAME": "Provoke",
+    "DESCRIPTION": "Gain !B! Block. NL Force the enemy to intend to attack this turn if possible."
+  },
+  "Koishi:Untouchable": {
+    "NAME": "Untouchable",
+    "DESCRIPTION": "Gain !M! Temporary_HP. NL Whenever you gain Intangible, gain !M! Temporary_HP.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Gain !M! Temporary_HP. NL Whenever you gain Intangible, gain !M! Temporary_HP."
+  },
+  "Koishi:HeartStoppingHorror": {
+    "NAME": "Heart-Stopping Horror",
+    "DESCRIPTION": "At the end of your turn, ALL enemies lose HP equal to their koishi:Terror."
+  },
+  "Koishi:Heartbroken": {
+    "NAME": "Heartbroken",
+    "DESCRIPTION": "While you are Intangible, deal double damage."
+  },
+  "Koishi:Ego": {
+    "NAME": "Ego",
+    "DESCRIPTION": "Your koishi:Id cards no longer automatically play themselves. NL Whenever you play an koishi:Id card, draw !M! card.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Your koishi:Id cards no longer automatically play themselves. NL Whenever you play an koishi:Id card, draw !M! card."
+  },
+  "Koishi:ConfinedInnocent": {
+    "NAME": "Confined Innocent",
+    "DESCRIPTION": "At the start of your turn, lose !Koishi:SecondMagic! HP and gain !M! koishi:Ephemeral."
+  },
+  "Koishi:FormlessExistence": {
+    "NAME": "Formless Existence",
+    "DESCRIPTION": "Whenever you gain Intangible, gain twice as much. NL You can no longer heal."
+  },
+  "Koishi:UnconsciousUrges": {
+    "NAME": "Unconscious Urges",
+    "DESCRIPTION": "At the start of your turn, randomly select a card in your hand. NL If you play it, gain [E] next turn.",
+    "UPGRADE_DESCRIPTION": "Innate. NL At the start of your turn, randomly select a card in your hand. NL If you play it, gain [E] next turn."
+  },
+  "Koishi:FreudianInstinct": {
+    "NAME": "Freudian Instinct",
+    "DESCRIPTION": "Whenever you draw an koishi:Id card, gain !M! Block.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Whenever you draw an koishi:Id card, gain !M! Block."
+  },
+  "Koishi:BramblyRoseGarden": {
+    "NAME": "Brambly Rose Garden",
+    "DESCRIPTION": "Gain !M! Thorns."
+  },
+  "Koishi:TerrifyingSpectre": {
+    "NAME": "Terrifying Spectre",
+    "DESCRIPTION": "Whenever you apply koishi:Terror, gain !M! koishi:Ephemeral."
+  },
+  "Koishi:VengefulSpirit": {
+    "NAME": "Vengeful Spirit",
+    "DESCRIPTION": "Whenever you gain Intangible, apply !M! Vulnerable to ALL enemies."
+  },
+  "Koishi:FidgetySnatcher": {
+    "NAME": "Fidgety Snatcher",
+    "DESCRIPTION": "At the start of your turn, apply !M! koishi:Constricted to ALL enemies."
+  },
+  "Koishi:BasicStrike": {
+    "NAME": "Strike",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "Koishi:BasicDefend": {
+    "NAME": "Defend",
+    "DESCRIPTION": "Gain !B! Block."
+  }
+}

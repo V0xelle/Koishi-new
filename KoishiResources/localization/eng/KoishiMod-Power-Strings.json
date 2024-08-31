@@ -1,0 +1,74 @@
+{
+"Koishi:EphemeralPower": {
+        "NAME": "Ephemeral",
+        "DESCRIPTIONS": ["Whenever you gain #b", " #yEphemeral, gain #b", " #yIntangible."]
+},
+"Koishi:TerrorPower": {
+        "NAME": "Terror",
+        "DESCRIPTIONS": ["When this enemy dies, heal #b", " HP."]
+},
+"Koishi:MindControlPower": {
+        "NAME": "Mind Control",
+        "DESCRIPTIONS": ["This enemy will help you for #b", " more turn.", " more turns."]
+},
+"Koishi:FourthEyePower": {
+        "NAME": "Fourth Eye",
+        "DESCRIPTIONS": ["Lose #yFrozen #yEye at the end of combat."]
+},
+"Koishi:BloodlustPower": {
+        "NAME": "Bloodlust",
+        "DESCRIPTIONS": ["Lose", " next turn."]
+},
+"Koishi:LoseThornsPower": {
+        "NAME": "Thorns Down",
+        "DESCRIPTIONS": ["Next turn, lose #b", " #yThorns."]
+},
+"Koishi:UntouchablePower": {
+        "NAME": "Untouchable",
+        "DESCRIPTIONS": ["Whenever you gain #yIntangible, gain #b", " #yTemporary #yHP."]
+},
+"Koishi:HeartbrokenPower": {
+        "NAME": "Heartbroken",
+        "DESCRIPTIONS": ["While you are #yIntangible, deal #b", "x damage."]
+},
+"Koishi:HeartStoppingHorrorPower": {
+        "NAME": "Heart-Stopping Horror",
+        "DESCRIPTIONS": ["At the end of your turn, ALL enemies lose HP equal to #b", "x their #yTerror."]
+},
+"Koishi:EgoPower": {
+        "NAME": "Ego",
+        "DESCRIPTIONS": ["Your #yId cards no longer automatically play themselves. Whenever you play an #yId card, draw #b", " card.", " cards."]
+},
+"Koishi:ConfinedInnocentPower": {
+        "NAME": "Confined Innocent",
+        "DESCRIPTIONS": ["At the start of your turn, lose #b1 HP #b", " time", " times", " and gain #b", " #yEphemeral."]
+},
+"Koishi:FormlessExistencePower": {
+        "NAME": "Formless Existence",
+        "DESCRIPTIONS": ["Whenever you gain #yIntangible, gain #b", "x as much. You can no longer heal."]
+},
+"Koishi:UnconsciousUrgesPower": {
+        "NAME": "Unconscious Urges",
+        "DESCRIPTIONS": ["At the start of your turn, randomly select a card in your hand. If you play it, gain", " next turn.", "Play ", " to gain"]
+},
+"Koishi:EnergyNextTurnPower": {
+        "NAME": "Energized",
+        "DESCRIPTIONS": ["Next turn, gain", " ."]
+},
+"Koishi:FreudianInstinctPower": {
+        "NAME": "Freudian Instinct",
+        "DESCRIPTIONS": ["Whenever you draw an #yId card, gain #b", " Block."]
+},
+"Koishi:TerrifyingSpectrePower": {
+        "NAME": "Terrifying Spectre",
+        "DESCRIPTIONS": ["Whenever you apply #yTerror, gain #b", " #yEphemeral."]
+},
+"Koishi:VengefulSpiritPower": {
+        "NAME": "Vengeful Spirit",
+        "DESCRIPTIONS": ["Whenever you gain #yIntangible, apply #b", " #yVulnerable to ALL enemies."]
+},
+"Koishi:FidgetySnatcherPower": {
+        "NAME": "Fidgety Snatcher",
+        "DESCRIPTIONS": ["At the start of your turn, apply #b", " #yConstricted to ALL enemies."]
+}
+}
